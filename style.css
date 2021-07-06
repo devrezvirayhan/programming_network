@@ -43,7 +43,7 @@ h1{
     margin-top: 40px;
     margin-bottom: 10px;
 }
-.progmming_heading{
+.food_heading{
     color: orange;
 }
 span.change {
@@ -94,22 +94,7 @@ span.change {
     width: 50%;
     margin: 0 auto;
 }
-.exprince_img{
-    display: flex;
-}
-.exprince_img img{
-    width: 70%;
-    text-align: center;
-    padding: 0px 30px;
-    margin-top: 25px;
-}
-.exprince_dis{
-    width: 75%;
-    padding: 0px 30px;
-}
-.exprince_img h3{
-    padding: 0px 30px;
-}
+
 .recipies-title {
     text-align: center;
     margin-bottom: 50px;
@@ -164,20 +149,6 @@ span.change {
     background: repeating-linear-gradient(45deg, #90bda6b8, #0000004a 100px);
   }
   
-.link_button_send{
-    text-decoration: none;
-    color: white;
-    padding: 10px 30px;
-    text-transform: uppercase;
-    background-image: linear-gradient(45deg, #302782db, #245a0e);
-    border-radius: 40px;
-    font-weight: 700;
-    text-align: center;
-    margin-left: 345px;
-}
-.link_button_send a{
-    text-align: center;
-}
 #socal_link_flw{
     background-image: url(img/socal_bg.jpg);
     background-size: cover;
@@ -211,10 +182,6 @@ span.social-media-name {
     font-weight: 100;
     padding: 0 2px;
 }
-
-
-
-
 footer{
     background: #010b10d4;
     padding: 10px;
